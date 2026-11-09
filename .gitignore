@@ -1,0 +1,11 @@
+*.bak
+*.bak.*
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+temp_*
+.tmp_syntax_check_*
+*.tmp
+_temp_*
+

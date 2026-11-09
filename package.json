@@ -1,0 +1,38 @@
+{
+  "name": "monolith-splitter",
+  "version": "2.1.0",
+  "description": "Universal polyglot monolith decomposition & surgical verbatim transplant toolkit for Python, Java, C#, C++, Go, Rust, PHP, Ruby, TypeScript, JavaScript.",
+  "type": "commonjs",
+  "main": "scripts/split_helper.js",
+  "bin": {
+    "monolith-splitter": "./scripts/split_helper.js"
+  },
+  "scripts": {
+    "test": "node scripts/split_helper.js"
+  },
+  "keywords": [
+    "refactoring",
+    "monolith",
+    "polyglot",
+    "python",
+    "java",
+    "csharp",
+    "golang",
+    "rust",
+    "php",
+    "typescript",
+    "javascript",
+    "ast",
+    "code-splitting",
+    "anti-hallucination",
+    "skills",
+    "antigravity",
+    "claude-code",
+    "cursor"
+  ],
+  "author": "zliveze",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
